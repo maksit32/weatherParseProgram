@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "D/WFiaA9TsQJA0GWwCVUCh4S6cTtSR7VnYB9b6R/MsbAaOBuhHYUnMrbvlflrvHYWgwxASW/hQyr4XDDeQq4jQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\korni\\source\\repos\\weatherParse\\weatherParse\\weatherParse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\korni\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\korni\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\korni\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\korni\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
